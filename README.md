@@ -1,6 +1,6 @@
 # Personal Event Planner
+![screenshot](https://github.com/user-attachments/assets/7d6d559f-a65d-45c5-82da-423a64bbfbf5)
 
-![App Screenshot](./public/screenshot.png) <!-- Add a screenshot later -->
 
 A web application to help users organize and manage personal or professional events with authentication and CRUD functionality.
 
