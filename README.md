@@ -24,20 +24,16 @@ A web application to help users organize and manage personal or professional eve
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/event-planner.git
+   git clone https://github.com/Kamogelo-web/react-app.git
    cd event-planner
-   ```
+   
 
 2. Install dependencies:
-   ```bash
    npm install
-   ```
+   
 
 3. Run the development server:
-   ```bash
    npm run dev
-   ```
 
 4. Open your browser and navigate to `http://localhost:5173`
 
